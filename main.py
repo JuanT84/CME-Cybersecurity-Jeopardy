@@ -14,7 +14,7 @@ fps = 60  # define gameplay frame rate
 mode = 0  # mode to track whether we are in single jeopardy, double jeopardy or final jeopardy
 w = WIDTH / 6  # individual square width based on overall screen size for squares drawn during gameplay
 h = HEIGHT / 7  # see above note but for height
-text_id = 8602
+text_id = 4549
 answered_count = 0  # track how many questions have been answered
 answered = [[False for _ in range(5)] for _ in range(6)]  # list to track which questions have been answered
 # get list of questions from text files scraped from jeopardy website
