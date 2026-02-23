@@ -20,9 +20,9 @@ answered = [[False for _ in range(5)] for _ in range(6)]  # list to track which 
 # get list of questions from text files scraped from jeopardy website
 questions_list = questions_lists.get_list(text_id)
 # print(questions_list)
-players = [{'name': 'Flio', 'score': 0},
-           {'name': 'Dale', 'score': 0},
-           {'name': 'Philip', 'score': 0}]  # initial names of players and initial scores at zero
+players = [{'name': 'CME 1', 'score': 0},
+           {'name': 'CME 2', 'score': 0},
+           {'name': 'CME 3', 'score': 0}]  # initial names of players and initial scores at zero
 active_question = False  # bit to track whether or not there's an active question
 who_went = [False, False, False]  # list to track which players have answered the active question
 player_active = 0  # integer tpo track which player is answering
