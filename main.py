@@ -12,11 +12,11 @@ font = pygame.font.Font('freesansbold.ttf', 32)  # import generic font file in '
 big_font = pygame.font.Font('freesansbold.ttf', 48)  # import generic font file in 'large' size
 fps = 60  # define gameplay frame rate
 mode = 0  # mode to track whether we are in single jeopardy, double jeopardy or final jeopardy
-w = WIDTH / 6  # individual square width based on overall screen size for squares drawn during gameplay
-h = HEIGHT / 7  # see above note but for height
+w = WIDTH / 5  # individual square width based on overall screen size for squares drawn during gameplay
+h = HEIGHT / 6  # see above note but for height
 text_id = 4549
 answered_count = 0  # track how many questions have been answered
-answered = [[False for _ in range(5)] for _ in range(6)]  # list to track which questions have been answered
+answered = [[False for _ in range(5)] for _ in range(5)]  # list to track which questions have been answered
 # get list of questions from text files scraped from jeopardy website
 questions_list = questions_lists.get_list(text_id)
 # print(questions_list)
@@ -155,7 +155,7 @@ class EntryBox:
 # main program for drawing the primary game area on the screen
 def draw_board():
     if mode < 2:  # this means single or double jeopardy use the following system to get questions and display the grid
-        for i in range(6):
+        for i in range(5):
             for j in range(5):
                 my_txt = questions_list[f'category {mode}{i + 1}'][(j + 1) * 200 * (mode + 1)]
                 # my_txt has the questions and answers of each question inside it
@@ -169,7 +169,7 @@ def draw_board():
             btn.draw()
 
         pygame.draw.line(screen, 'black', (0, h - 5), (WIDTH, h - 5), 10)
-        pygame.draw.line(screen, 'black', (0, 6 * h - 5), (WIDTH, 6 * h - 5), 10)
+        pygame.draw.line(screen, 'black', (0, 5 * h - 5), (WIDTH, 5 * h - 5), 10)
     else:  # the only other mode is final jeopardy
         txt = big_font.render(f'FINAL JEOPARDY: ' + questions_list[f'final'][2], True, 'white')
         screen.blit(txt, (5, 5))
@@ -412,7 +412,7 @@ while run:
                 player_active = 0
                 who_went = [False, False, False]
                 countdown_tmr = countdown_sp
-                if h < mouse_pos[1] < HEIGHT - h:
+                if h < mouse_pos[1] < h * 6:
                     active_id = [int(mouse_pos[0] // w), (int(mouse_pos[1] // h) - 1)]
                     active_coords = [active_id[0] * w, active_id[1] * h]
                     # print(active_id)
@@ -465,7 +465,7 @@ while run:
                 for i in range(3):
                     players[i]['score'] = 0
                 answered_count = 0
-                answered = [[False for _ in range(5)] for _ in range(6)]
+                answered = [[False for _ in range(5)] for _ in range(5)]
                 reset_menu = True
                 reveal_final = False
                 mode = 0
