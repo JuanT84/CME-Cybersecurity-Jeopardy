@@ -1,10 +1,10 @@
-ECON 101
-Q: Neither gaseous or solid but this term, meaning "in cash" or readily convertible into cash without a big loss of principal A: liquid
-Q: In 2008 prices in Zimbabwe doubled every 24.7 hours due to hyper-this A: inflation
-Q: The IMF, this U.N. agency, was founded in 1944 in part to stabilize currency exchange rates A: the International Monetary Fund
-Q: In 1778, after detailing the "invisible hand" guiding commerce, he became a commissioner of customs A: Adam Smith
-Q: A theory of the trade-off between tax rates & what the government collects in tax revenues is seen in his curve A: Arthur Laffer
-COLORFUL SPORTS
+Types of Phishing
+Q: Practice of sending fraudulent messages via text, email, or voice message pretending to be a reputable company or person in order to obtain personal information A: Phishing
+Q: Practice of sending fraudulent messages via text pretending to be a reputable company or person in order to obtain personal information. A: Smishing
+Q:Fraudulent practice of making phone calls or leaving voice messages pretending to be a reputable company or person in order to obtain personal information. A:Vishing
+Q:Fraudulent practice of making phone calls, text, email, or voice messages pretending to be a reputable company or person in order to obtain personal information from a targeted individual. A:Spear Phishing
+Q:Fraudulent practice of placing false QR codes in public pretending to be a reputable company or person in order to obtain personal information from an individual. A:Quishing
+CME Department Specific Questions
 Q: The area surrounding a golf hole; the average size on the pro tours is about 6,000 square feet A: the green
 Q: Notorious nickname of the Chicago team that threw the 1919 World Series A: the Black Sox
 Q: Sun Life Stadium in Florida is home to the Miami Dolphins & this college bowl game A: the Orange Bowl
