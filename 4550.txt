@@ -1,9 +1,9 @@
 Types of Phishing
 Q: Practice of sending fraudulent messages via text, email, or voice message pretending to be a reputable company or person in order to obtain personal information A: Phishing
-Q: Practice of sending fraudulent messages via text pretending to be a reputable company or person in order to obtain personal information. A: Smishing
-Q:Fraudulent practice of making phone calls or leaving voice messages pretending to be a reputable company or person in order to obtain personal information. A:Vishing
-Q:Fraudulent practice of making phone calls, text, email, or voice messages pretending to be a reputable company or person in order to obtain personal information from a targeted individual. A:Spear Phishing
-Q:Fraudulent practice of placing false QR codes in public pretending to be a reputable company or person in order to obtain personal information from an individual. A:Quishing
+Q: Practice of sending fraudulent messages via text pretending to be a reputable company or person in order to obtain personal information A: Smishing
+Q: Fraudulent practice of making phone calls or leaving voice messages pretending to be a reputable company or person in order to obtain personal information A: Vishing
+Q: Fraudulent practice of making phone calls, text, email, or voice messages pretending to be a reputable company or person in order to obtain personal information from a targeted individual A: Spear Phishing
+Q: Fraudulent practice of placing false QR codes in public pretending to be a reputable company or person in order to obtain personal information from an individual A: Quishing
 CME Department Specific Questions
 Q: The area surrounding a golf hole; the average size on the pro tours is about 6,000 square feet A: the green
 Q: Notorious nickname of the Chicago team that threw the 1919 World Series A: the Black Sox
