@@ -1,30 +1,30 @@
-Types of Phishing
+TYPES OF PHISHING
 Q: Practice of sending fraudulent messages via text, email, or voice message pretending to be a reputable company or person in order to obtain personal information A: Phishing
 Q: Practice of sending fraudulent messages via text pretending to be a reputable company or person in order to obtain personal information A: Smishing
 Q: Fraudulent practice of making phone calls or leaving voice messages pretending to be a reputable company or person in order to obtain personal information A: Vishing
 Q: Fraudulent practice of making phone calls, text, email, or voice messages pretending to be a reputable company or person in order to obtain personal information from a targeted individual A: Spear Phishing
 Q: Fraudulent practice of placing false QR codes in public pretending to be a reputable company or person in order to obtain personal information from an individual A: Quishing
 CME Department Specific Questions
-Q: The area surrounding a golf hole; the average size on the pro tours is about 6,000 square feet A: the green
-Q: Notorious nickname of the Chicago team that threw the 1919 World Series A: the Black Sox
+Q: Group that is most targeted at CME for phishing A: Sales and commercial, or new employees
+Q: Something that employees should change periodically to make sure their information is secure. A: passwords
 Q: Sun Life Stadium in Florida is home to the Miami Dolphins & this college bowl game A: the Orange Bowl
 Q: This cup awarded to the Canadian Football League champion was named for a governor general of Canada A: the Grey Cup
 Q: The only coach to win both an NCAA title & an NBA title, he took over the SMU basketball team in 2012 A: (Larry) Brown
-EUROPEAN COUNTRY BY REGIONS
-Q: Arcadia,Corinth,Samos A: Greece
-Q: Zug,Lucerne,Valais A: Switzerland
-Q: Nordland,Oppland,Telemark A: Norway
-Q: Algarve,Alentejo,Beira A: Portugal
+AI AND PHISHING
+Q: Type of phishing where AI can be used A: Every phishing type
+Q: Hyperrealistic video, image, or audio showing people saying things they never have. A: Deepfake
+Q: Percentage of AI used in phishing in the year 2025 A: 80
+Q: Success rate of AI generated phishing emails in the U.S in the year 2025. A: 50
 Q: Slavonia,Istria,Dalmatia A: Croatia
-POTPOURRI
-Q: Running back Jackson or actress Derek A: Bo
+PHISHING PREVENTION
+Q: An important first step once receiving a suspicious email. A: verifying communication
 Q: When functioning properly, "all systems are" this, meaning ready A: go
 Q: It flows 405 miles to the Adriatic A: the Po
 Q: In a Kipling work, it comes between "Just" & "Stories" A: So
 Q: The innermost of Jupiter's 4 Galilean moons A: Io
-WILL YOU STILL FEED ME?
-Q: Och aye! Haggamuggie is a simplified version of this, but with fish liver--sounds even better A: haggis
-Q: Rachael Ray has a 22-minute recipe for burgers of this "cordon bleu"; 10 minutes of prep & 12 to cook A: chicken
+FUN FACTS ABOUT PHISHING
+Q: The cost it takes to create a realistic deepfake. A: $2
+Q: The primary strategy for scamming. A: Phishing
 Q: From the Dutch for "to curl", this doughnut-style dough is fried & brushed with a sweet glaze A: a cruller
 Q: "Why don't you dance with me?  I'm not no" this cheese described as "devastatingly odorous" A: limburger
 Q: "Polska" precedes the name of this sausage in a Hillshire Farm product A: kielbasa
